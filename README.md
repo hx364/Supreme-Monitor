@@ -6,9 +6,9 @@ This code is to monitor the new releases, and will immediately buy your favorite
 
 ## Prerequisite
 1. Python (https://www.python.org/)
-2. selenium library in python (http://selenium-python.readthedocs.org/). Install by '<pip install selenium>'
+2. selenium library in python (http://selenium-python.readthedocs.org/). Install by ```pip install selenium```
 
 
 ## Use
 1. Fill the options.json with your shipping address and credit card information
-2. Run the 'supreme_v2.py' script. Run '<python supreme_v1.py>' in terminal.
+2. Run the 'supreme_v2.py' script. Run ```python supreme_v1.py``` in terminal.
